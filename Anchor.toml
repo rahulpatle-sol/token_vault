@@ -12,7 +12,7 @@ token_vault = "8WijvK9GJ5q1KSP1o1xuH4J1qw9VHie47riZecc9zmBS"
 url = "https://api.apr.dev"
 
 [provider]
-cluster = "localnet"
+cluster = "devnet"
 wallet = "~/.config/solana/id.json"
 
 [scripts]
